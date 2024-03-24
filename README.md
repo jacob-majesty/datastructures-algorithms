@@ -9,3 +9,5 @@ https://www.bigocheatsheet.com/
 
 Roadmap to become a professional developper 
 https://roadmap.sh/get-started
+
+Bash: Linux System and Git
